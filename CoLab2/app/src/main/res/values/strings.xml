@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CoLab2</string>
+    <string name="welcome">
+        <br><b>Welcome to CoLabCraft.</b></br>
+    </string>
+    <string name="username">
+        <br><b>Username</b></br>
+    </string>
+    <string name="password">
+        <br><b>Password</b></br>
+    </string>
+</resources>
